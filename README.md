@@ -1,10 +1,11 @@
 # TheSweetBulletImpact
 
-This is a first person shooter-survival game.
+This is a first person shooter-survival game I wrote with a friend [Leandro Kieliger](https://github.com/lkieliger) back in 2012 for a high school project.
 
-I wrote it in 2012 with a friend, with barely any knowledge in programming. 
-Everything is done using Irrlicht, a game engine, IrrBullet, a physics engine, IrrKlang, a sound manager.
+The game is based upon Irrlicht, a game engine, IrrBullet, a physics engine and IrrKlang, a sound manager.
 
-I consider this code deprecated, it is barely readable, and I won't take the time to make it portable.
-I will add some screenshots soon. 
+It is important to note that at the time, we had little to no programming knowledge. Consequently this code is currently considered as deprecated as it is barely readable and doesn't follow any good programming practice. We don't have any short-term plan to re-write it although it may be a good programming exercise.
+
+![alt text](https://github.com/Rimbaud13/TheSweetBulletImpact/blob/master/Screenshots/integr.jpg "In-game screenshot") 
+![alt text](https://github.com/Rimbaud13/TheSweetBulletImpact/blob/master/Screenshots/gym4.jpg "Map creation") 
 
