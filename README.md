@@ -9,4 +9,6 @@ It is important to note that at the time, we had little to no programming knowle
 ![alt text](https://github.com/Rimbaud13/TheSweetBulletImpact/blob/master/Screenshots/integr.jpg "In-game screenshot") 
 ![alt text](https://github.com/Rimbaud13/TheSweetBulletImpact/blob/master/Screenshots/gym4.jpg "In-game screenshot 2") 
 ![alt text](https://github.com/Rimbaud13/TheSweetBulletImpact/blob/master/Screenshots/gym3.jpg "Map creation")
+![alt text](https://github.com/Rimbaud13/TheSweetBulletImpact/blob/master/Screenshots/mod_anim.jpg "Character creation")
+![alt text](https://github.com/Rimbaud13/TheSweetBulletImpact/blob/master/Screenshots/mod_blueprint.jpg "Character creation 2")
 
